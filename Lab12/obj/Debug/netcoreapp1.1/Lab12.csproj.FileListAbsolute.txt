@@ -1,0 +1,10 @@
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\bin\Debug\netcoreapp1.1\Lab12.deps.json
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\bin\Debug\netcoreapp1.1\Lab12.runtimeconfig.json
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\bin\Debug\netcoreapp1.1\Lab12.runtimeconfig.dev.json
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\bin\Debug\netcoreapp1.1\Lab12.dll
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\bin\Debug\netcoreapp1.1\Lab12.pdb
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\obj\Debug\netcoreapp1.1\Lab12.csprojResolveAssemblyReference.cache
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\obj\Debug\netcoreapp1.1\Lab12.csproj.CoreCompileInputs.cache
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\obj\Debug\netcoreapp1.1\Lab12.AssemblyInfo.cs
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\obj\Debug\netcoreapp1.1\Lab12.dll
+c:\users\jonaca hudson\source\repos\Lab12\Lab12\obj\Debug\netcoreapp1.1\Lab12.pdb
